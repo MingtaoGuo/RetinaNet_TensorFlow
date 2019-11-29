@@ -26,6 +26,8 @@ Pascal Voc: http://pjreddie.com/media/files/VOCtrainval_06-Nov-2007.tar
 ### Testing phase
 1. Changing the IMG_PATH or VIDEO_PATH in **test.py** for testing
 2. Executing **test.py**
+
+Model we trained: https://drive.google.com/open?id=1_j-bjQ_SWT3txqCabM8_Ny0IMUqTb8Lk
 # Requirement
 1. python
 2. tensorflow
