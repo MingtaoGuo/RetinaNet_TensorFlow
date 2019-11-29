@@ -82,7 +82,7 @@ def detect_video(vid_path, inference):
 
 if __name__ == "__main__":
     inference = Inference()
-    detect_video("C:/Users/gmt/Desktop/test2.mp4", inference)
+    # detect_video("C:/Users/gmt/Desktop/test2.mp4", inference)
     IMG = np.array(Image.open("C:/Users/gmt/Desktop/cats/65.jpg"))
     IMG = inference(IMG)
     Image.fromarray(IMG).show()
