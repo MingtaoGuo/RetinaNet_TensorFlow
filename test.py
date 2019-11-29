@@ -81,9 +81,11 @@ def detect_video(vid_path, inference):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
+    IMG_PATH = "C:/Users/gmt/Desktop/cats/65.jpg"
     inference = Inference()
-    # detect_video("C:/Users/gmt/Desktop/test2.mp4", inference)
-    IMG = np.array(Image.open("C:/Users/gmt/Desktop/cats/65.jpg"))
+    # VIDEO_PATH = "C:/Users/gmt/Desktop/test2.mp4"
+    # detect_video(VIDEO_PATH, inference)
+    IMG = np.array(Image.open(IMG_PATH))
     IMG = inference(IMG)
     Image.fromarray(IMG).show()
     Image.fromarray(IMG).save("1.jpg")
