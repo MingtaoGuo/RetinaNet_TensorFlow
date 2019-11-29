@@ -48,3 +48,5 @@ Pascal Voc: http://pjreddie.com/media/files/VOCtrainval_06-Nov-2007.tar
 
 # Reference
 [1] Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017.
+# Author
+Mingtao Guo
