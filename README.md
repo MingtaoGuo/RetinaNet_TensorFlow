@@ -41,3 +41,8 @@ Pascal Voc: http://pjreddie.com/media/files/VOCtrainval_06-Nov-2007.tar
 |-|-|-|
 |![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/1.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/8.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/6.jpg)|
 |![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/7.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/9.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/4.jpg)|
+|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/2.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/3.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/14.jpg)|
+|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/10.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/12.jpg)|![](https://github.com/MingtaoGuo/RetinaNet_TensorFlow/blob/master/IMGS/13.jpg)|
+
+# Reference
+[1] Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017.
